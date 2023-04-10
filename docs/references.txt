@@ -1,0 +1,6 @@
+
+FTP RFC: https://www.rfc-editor.org/rfc/rfc959
+Simple FTP Server: https://pyftpdlib.readthedocs.io/en/latest/tutorial.html#a-base-ftp-server
+
+Vite - frontend tooling (need to use npm modules with vanilla JS):
+https://vitejs.dev/ 

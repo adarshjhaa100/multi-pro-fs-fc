@@ -1,0 +1,8 @@
+Listen for data over ftp: tcpdump -i lo -vv -A 'port 2121'
+
+Make flask server public: flask run --host 0.0.0.0
+
+flask --app app run --host=0.0.0.0 --port=8081 
+
+Flask with debug:
+        
